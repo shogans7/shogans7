@@ -4,5 +4,5 @@
 
 - Please check out my NBA webscraping and modelling project, the outline is at https://shogans7.github.io/NBA_project/
 
-- 📫 How to reach me: hogans7 at tcd.ie
+- 📫 How to reach me: hogans7 AT tcd.ie
 
